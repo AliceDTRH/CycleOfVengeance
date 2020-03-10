@@ -8,8 +8,8 @@ openblocks:radio
 oreberries:tinker
 bewitchment:hedge_witch
 bewitchment:alchemist
-forestry:apiarist
 forestry:arborist
+forestry:apiarist
 immersiveengineering:engineer
 extrautils2:alchemist
 extrautils2:red_mechanic

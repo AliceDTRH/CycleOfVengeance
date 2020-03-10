@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "CycleOfVengeance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "AliceDTRH",
   "files": [
     {
@@ -632,6 +632,11 @@
     {
       "projectID": 233105,
       "fileID": 2745846,
+      "required": true
+    },
+    {
+      "projectID": 238123,
+      "fileID": 2671230,
       "required": true
     },
     {

@@ -40,13 +40,13 @@ openblocks:flim_flam
 projectred-expansion:electric_efficiency
 randomthings:magnetic
 bewitchment:magic_protection
-endercore:xpboost
 endercore:autosmelt
-enderio:witherweapon
-enderio:witherarrow
+endercore:xpboost
 enderio:soulbound
 enderio:repellent
 enderio:shimmer
+enderio:witherweapon
+enderio:witherarrow
 morerefinedstorage:freeze
 morerefinedstorage:antifreeze
 astralsorcery:enchantment.as.nightvision
