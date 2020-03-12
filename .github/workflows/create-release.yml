@@ -18,7 +18,7 @@ jobs:
         run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\//}
       - name: Build project # This would actually build your project, using zip for an example artifact
         run: |
-          cd ..&&zip CycleOfVengeance${{ steps.get_version.outputs.VERSION }}.zip ./CycleofVengeance
+          zip -r CycleOfVengeance${{ steps.get_version.outputs.VERSION }}.zip .
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
